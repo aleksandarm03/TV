@@ -1,0 +1,8 @@
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\bin\Debug\TV.exe
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\bin\Debug\TV.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\obj\x86\Debug\TV.csproj.GenerateResource.Cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\obj\x86\Debug\TV.exe
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\obj\x86\Debug\TV.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\TV\TV\obj\x86\Debug\TV.csprojResolveAssemblyReference.cache
